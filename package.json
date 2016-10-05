@@ -29,6 +29,6 @@
     "zuul": "^3.0.0"
   },
   "dependencies": {
-    "@nathanfaucett/keys": "^0.0.1"
+    "@nathanfaucett/keys": "^0.0.2"
   }
 }
