@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/object-for_each",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "executes a provided function once per object element.",
   "repository": {
     "type": "git",
